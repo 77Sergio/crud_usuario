@@ -1,1 +1,1 @@
-Aplicación en PHP para sibir usuarios mediante un formulario a una base de datos
+Aplicación en PHP para subir usuarios mediante un formulario a una base de datos MySQL
